@@ -1,0 +1,5 @@
+第2章“哈希算法”实验中所用的pymd5.py代码衍生于RSA Data Security公司的MD5 Message-Digest算法（derived from the RSA Data Security, Inc. MD5 Message-Digest Algorithm）。
+Copyright (C) 1991-2, RSA Data Security, Inc. Created 1991. All rights reserved.
+
+第9章“数据库注入攻击”实验中所用的实验网站采用了Designmodo的Flat UI Free框架（https://designmodo.com/flat-free/）。
+Copyright (C) 2013-2018 Designmodo.

